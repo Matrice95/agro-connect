@@ -67,19 +67,19 @@ export function LandingPage() {
       quote: "Grâce à AgroConnect+, j'optimise mes interventions sur mes vergers d'anacardiers. Les prévisions sont fiables et les recommandations très pertinentes.",
       author: "Amadou K.",
       role: "Producteur d'anacarde, Korhogo",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop"
+      image: "https://img.lemde.fr/2021/04/20/0/0/6240/4160/664/0/75/0/c40606d_638975745-img-9426.JPG"
     },
     {
       quote: "L'application m'aide à prendre de meilleures décisions pour la gestion de mes manguiers. Le suivi de l'humectation des feuilles est particulièrement utile.",
       author: "Marie T.",
       role: "Productrice de mangues, Boundiali",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop"
+      image: "https://www.waapp-ppaao.org/sites/default/files/mangue5.jpg"
     },
     {
       quote: "Un outil indispensable pour notre coopérative. Les bulletins agrométéorologiques nous permettent d'anticiper et de mieux planifier nos activités.",
       author: "Ibrahim S.",
       role: "Président de coopérative, Ferkessédougou",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop"
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNfoTbhyrJlpy4zVjCc7RxzQ9FQaT9eEuhdsBOdws-cTPFz_kxDz_uhhA3z0lEF9iWDag&usqp=CAU"
     }
   ];
 
